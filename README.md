@@ -13,3 +13,4 @@ git log --patch
 git log --grep ar2 --oneline
 git log -Gar2 --patch
 
+git commit --amend /// To commit all the files...
