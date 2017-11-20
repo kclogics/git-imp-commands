@@ -51,5 +51,18 @@ commit itself...
 
 if merge is still there it can caouse confusion if you try to merge again...
 
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
 
+
+Distributd Model:
+-Centalized
+
+Branching Model:
+-One Integrated Branch(master)
+-One Feature Branch per Feature
+
+Constraints:
+-Keep master stable, fix it ASAP 
+-integrate feature banches every few days
+-Use merge over rebase by default
 
