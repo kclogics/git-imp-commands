@@ -1,3 +1,17 @@
+git authorization:
+
+> git config --global user.name "Your_Name"
+> git config --global user.email "email_address@domain.com"
+
+# git commit to github
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kclogics/new.git
+git push -u origin master
+
+
 # git-imp-commands
 
 git show HEAD@{"3 hours ago"}
